@@ -1,4 +1,4 @@
-# Título do projeto
+# Indicadores de Depósito
 
 Um simples resumo do uso/propósito do projeto.
 
@@ -37,8 +37,8 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+Hiran Farias
+[hiranfarias](https://www.linkedin.com/in/hiran-farias-de-lima-6465b3105/)
 
 ## Histórico de versões.
 
